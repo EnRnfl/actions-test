@@ -1,6 +1,5 @@
 # actions-test
 .github/workflows/test.yml
-yaml
 
 name: Calculator Test
 
